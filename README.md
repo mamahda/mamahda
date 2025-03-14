@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamahda&label=Profile%20views&color=0e75b6&style=flat" alt="mamahda" /> </p>
-
-
 🧠 Informatics Engineering Student @ ITS | Passionate about Technology & Innovation  
 💡 Exploring Competitive Programming & Machine Learning  
 🛠️ Building and contributing to Open-Source & Engineering Projects  
 📚 Always learning, coding, and solving problems!   
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamahda&label=Profile%20views&color=0e75b6&style=flat" alt="mamahda" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamahda&layout=compact)  
 Let me know if you want any changes! 😃  
