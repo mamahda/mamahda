@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🧠 Informatics Engineering Student @ ITS | Passionate about Technology & Innovation  
-💡 Exploring Competitive Programming & Cyber Security
+💡 Exploring Competitive Programming & Cyber Security <br>
 🛠️ Building and contributing to Open-Source & Engineering Projects  
 📚 Always learning, coding, and solving problems!   
 
