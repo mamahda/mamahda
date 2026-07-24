@@ -22,8 +22,6 @@ Repeating.
 [gilbran@github ~]$ uptime
 2 years of Computer Science
 ∞ things left to learn
-
-[gilbran@github ~]$
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamahda&label=Profile%20views&color=0e75b6&style=flat" alt="mamahda" /> </p>
